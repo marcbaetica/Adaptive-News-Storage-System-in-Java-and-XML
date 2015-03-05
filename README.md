@@ -2,8 +2,11 @@ NewsStorageSystem
 =================
 
 Group 6 project by:
+
 Yuan Szsun
+
 Marc-Alexandru Baetica
+
 Myles Mohammed
 
 ------------

@@ -50,3 +50,4 @@ Notes:
 2. List for all the categories and locations are pre-defined in the database, we assuming the database.xml has the complete list. As a result, any add news request with a non-existing category/location will be rejected.
 
 3. For this version, single piece of news can only have up to 1 category and 1 location entry.
+/////
